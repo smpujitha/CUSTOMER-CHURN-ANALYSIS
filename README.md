@@ -1,6 +1,6 @@
 # Customer Churn Forecasting
 
-## 📌 Project Overview
+##  Project Overview
 
 Customer churn is an important business problem where customers stop using a company's products or services. Identifying customers who are likely to churn in advance allows businesses to take preventive actions and improve customer retention.
 
@@ -414,6 +414,3 @@ Therefore, the project demonstrates how customer data and machine learning can b
 * Jupyter Notebook
 
 ---
-
-
-And your **PPT can remain in the repository as supporting material**. The README is what makes it immediately clear to whoever checks your GitHub that you have addressed those requirements.
